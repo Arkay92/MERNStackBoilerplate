@@ -7,7 +7,7 @@
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
-  "author": "Your Name",
+  "author": "Robert McMenemy",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
