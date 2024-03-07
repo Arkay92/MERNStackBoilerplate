@@ -55,9 +55,6 @@ npm start
 ```
 Your application should now be running on localhost:3000 for the client and localhost:5000 (or another specified port) for the server.
 
-## Usage
-Provide instructions on how to use your application, such as how to register a new user, login, and access protected routes.
-
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
